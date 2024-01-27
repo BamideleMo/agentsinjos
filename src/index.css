@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  margin: 0;
+  font-family: "Lexend Deca", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.banner{
+  background: url(/src/assets/agentsinjos-banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 410px;
+}
