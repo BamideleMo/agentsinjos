@@ -10,9 +10,9 @@ function FeaturedAgents() {
             Featured Property Dealers & House Agents:
           </h2>
           <div class="my-4 grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 gap-4 text-slate-600">
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent3.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent3.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
@@ -56,9 +56,9 @@ function FeaturedAgents() {
                 </div>
               </div>
             </div>
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent2.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent2.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
@@ -100,9 +100,9 @@ function FeaturedAgents() {
                 </div>
               </div>
             </div>
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent2.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent2.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
@@ -144,9 +144,9 @@ function FeaturedAgents() {
                 </div>
               </div>
             </div>
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent2.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent2.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
@@ -188,9 +188,9 @@ function FeaturedAgents() {
                 </div>
               </div>
             </div>
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent1.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent1.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
@@ -232,9 +232,9 @@ function FeaturedAgents() {
                 </div>
               </div>
             </div>
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent4.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent4.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
@@ -276,9 +276,9 @@ function FeaturedAgents() {
                 </div>
               </div>
             </div>
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent1.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent1.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
@@ -320,9 +320,9 @@ function FeaturedAgents() {
                 </div>
               </div>
             </div>
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent4.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent4.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
@@ -364,9 +364,9 @@ function FeaturedAgents() {
                 </div>
               </div>
             </div>
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent4.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent4.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
@@ -408,9 +408,9 @@ function FeaturedAgents() {
                 </div>
               </div>
             </div>
-            <div class="h-64 shadow-lg border border-gray-300 rounded-lg">
+            <div class="h-64 shadow-lg border border-black overflow-hidden rounded-lg bg-white">
               <div class="h-40 w-full overflow-hidden mx-auto">
-                <img src="../src/assets/agent2.jpg" class="w-full rounded-lg" />
+                <img src="../src/assets/agent2.jpg" class="w-full" />
               </div>
               <div class="p-1 text-xs">
                 <div class="py-1 flex justify-between">
